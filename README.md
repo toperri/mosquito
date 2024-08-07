@@ -1,2 +1,3 @@
 # mosquito
- A bug tracker based off Discord webhooks
+
+A bug tracker based off Discord webhooks. 
